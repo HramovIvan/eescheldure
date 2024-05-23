@@ -1,4 +1,2 @@
-<h1 align="center">EEScheldure</h1>
-<h5 align="center">https://eescheldure.ru/</h5>
-<br \>
+<h1 align="center"><a href="https://eescheldure.ru/" target="_blank">EEScheldure</a></h1>
 <h3 align="center">Project essence</h1>
